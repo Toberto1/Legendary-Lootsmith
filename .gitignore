@@ -1,0 +1,34 @@
+# GameMaker Studio 2 build files
+*.yyz
+*.yymps
+*.zip
+*.exe
+*.dll
+*.log
+
+# Cache and build output
+*.yyc
+*.ycc
+*.tmp
+*.dnd
+*.bin
+*.cache/
+output/
+build/
+configs/
+extensions/
+temp/
+options/windows/
+options/html5/
+options/mac/
+options/linux/
+options/android/
+options/ios/
+
+# User-specific data
+*.local_settings
+*.user
+*.suo
+*.userprefs
+*.DS_Store
+Thumbs.db
